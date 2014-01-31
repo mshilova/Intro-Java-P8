@@ -1,0 +1,10 @@
+Scanner separates characters of the source code into tokens that            
+logically belong together (primitive data types and simple identifiers).    
+The stream of tokens is passed to the parser, that groups them together     
+into syntactic structure.  
+
+To run the program on the two test files type:
+
+                          java P8 P8TestA.java   
+                                  or
+                          java P8 P8TestB.java
